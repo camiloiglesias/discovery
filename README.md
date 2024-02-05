@@ -36,7 +36,7 @@ Site voltado para uso profissional de  apresentação do seu portifólio, redes 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/KeU0VOqPTZKrJMUcH9FcpR/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=0%3A1&mode=design&t=oEe759HvAhee9b25-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-
+made by Camilo :wave: [Meu Linkedin](https://www.linkedin.com/in/camilo-jose-viera-iglesias)
