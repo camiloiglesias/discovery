@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Site voltado para uso profissional de  apresentação do seu portifólio, redes sociais etc..
+Site de cartão de visita de seu portifólio, redes sociais etc..
 
 ## 🔖 Layout
 
